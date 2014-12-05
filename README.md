@@ -1,5 +1,5 @@
 
-A lightweight php get meta tag script by <a href="http://w3webtools.com">w3webtools</a>
+A lightweight php get meta tag script by <a href="http://w3webtools.com/who-unfollowed-me/">Who unfollowed me</a>
 
 Example of usage
 
