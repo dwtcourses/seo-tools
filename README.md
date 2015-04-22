@@ -1,12 +1,12 @@
 
-A lightweight php get meta tag script by <a href="http://w3webtools.com/who-unfollowed-me/">Who unfollowed me</a>
+A lightweight php get meta tag script by <a alt="Seo checker - website review" href="http://247seochecker.com/">Seo checker - website review</a>
 
 Example of usage
 
 <?php
 require("meta_tag.php");
-$url = "w3webtools.com"; //your domain
+$url = "247seochecker.com"; //your domain
 echo get_meta_data($url);
 ?>
 
-Read more how this script works http://w3webtools.com/get-title-meta-information-url/
+Read more how this script works http://247seochecker.com/
